@@ -1,0 +1,11 @@
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.Form1.resources
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.Properties.Resources.resources
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.GenerateResource.cache
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+D:\lap_trinh_windows\winform\Bai_1\Bai_1\obj\Debug\Bai_1.pdb

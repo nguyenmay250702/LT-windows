@@ -1,0 +1,16 @@
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.csproj.AssemblyReference.cache
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.csproj.CoreCompileInputs.cache
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\bin\Debug\PT_GiaoThong.exe.config
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\bin\Debug\PT_GiaoThong.exe
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\bin\Debug\PT_GiaoThong.pdb
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.exe
+D:\lap_trinh_winform\OPP_PhanSo\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.pdb
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.csproj.AssemblyReference.cache
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.csproj.CoreCompileInputs.cache
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.exe
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\obj\Debug\PT_GiaoThong.pdb
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\bin\Debug\PT_GiaoThong.exe.config
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\bin\Debug\PT_GiaoThong.exe
+D:\lap_trinh_winform\OPP\PT_GiaoThong\PT_GiaoThong\bin\Debug\PT_GiaoThong.pdb

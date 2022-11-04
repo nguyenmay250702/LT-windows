@@ -1,0 +1,8 @@
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\bin\Debug\Cach1.exe.config
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\bin\Debug\Cach1.exe
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\bin\Debug\Cach1.pdb
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\obj\Debug\Cach1.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\obj\Debug\Cach1.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\obj\Debug\Cach1.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\obj\Debug\Cach1.exe
+D:\lap_trinh_windows\Su_ly_ngoai_le\Cach1\Cach1\obj\Debug\Cach1.pdb

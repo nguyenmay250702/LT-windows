@@ -1,0 +1,9 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\bin\Debug\BT7_Chuoi.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\bin\Debug\BT7_Chuoi.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\bin\Debug\BT7_Chuoi.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\obj\Debug\BT7_Chuoi.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\obj\Debug\BT7_Chuoi.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\obj\Debug\BT7_Chuoi.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\obj\Debug\BT7_Chuoi.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\obj\Debug\BT7_Chuoi.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT7_Chuoi\obj\Debug\BT7_Chuoi.pdb

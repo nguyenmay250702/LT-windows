@@ -1,0 +1,15 @@
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.csproj.AssemblyReference.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.Form1.resources
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\bin\Debug\BT9.exe.config
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\bin\Debug\BT9.exe
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\bin\Debug\BT9.pdb
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\bin\Debug\BT8.exe
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\bin\Debug\BT8.pdb
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\bin\Debug\BT8.exe.config
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.csproj.CopyComplete
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.exe
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT9\obj\Debug\BT9.pdb

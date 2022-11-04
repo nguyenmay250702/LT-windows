@@ -1,0 +1,9 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\bin\Debug\BT3_Menu.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\bin\Debug\BT3_Menu.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\bin\Debug\BT3_Menu.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\obj\Debug\BT3_Menu.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\obj\Debug\BT3_Menu.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\obj\Debug\BT3_Menu.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\obj\Debug\BT3_Menu.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\obj\Debug\BT3_Menu.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT3_Menu\obj\Debug\BT3_Menu.pdb

@@ -1,0 +1,10 @@
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\bin\Debug\B1.exe.config
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\bin\Debug\B1.exe
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\bin\Debug\B1.pdb
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\obj\Debug\B1.csprojAssemblyReference.cache
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\obj\Debug\B1.Form1.resources
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\obj\Debug\B1.Properties.Resources.resources
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\obj\Debug\B1.csproj.GenerateResource.cache
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\obj\Debug\B1.csproj.CoreCompileInputs.cache
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\obj\Debug\B1.exe
+D:\C#\Winforms\Thuchanh\TH_FORM01\B1\obj\Debug\B1.pdb

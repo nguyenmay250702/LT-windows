@@ -1,0 +1,11 @@
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\bin\Debug\Bai_8.exe.config
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\bin\Debug\Bai_8.exe
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\bin\Debug\Bai_8.pdb
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.Form1.resources
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.Properties.Resources.resources
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.csproj.GenerateResource.cache
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.exe
+D:\lap_trinh_windows\BTTH04\Bai_8\Bai_8\obj\Debug\Bai_8.pdb

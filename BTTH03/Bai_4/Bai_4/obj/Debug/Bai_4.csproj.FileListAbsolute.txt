@@ -1,0 +1,8 @@
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\bin\Debug\Bai_4.exe.config
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\bin\Debug\Bai_4.exe
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\bin\Debug\Bai_4.pdb
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\obj\Debug\Bai_4.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\obj\Debug\Bai_4.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\obj\Debug\Bai_4.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\obj\Debug\Bai_4.exe
+D:\lap_trinh_windows\BTTH03\Bai_4\Bai_4\obj\Debug\Bai_4.pdb

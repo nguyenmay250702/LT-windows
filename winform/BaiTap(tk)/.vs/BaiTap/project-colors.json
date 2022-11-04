@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a231b3aa-7faa-4f01-a25b-45fae3764093": {
+      "ProjectGuid": "a231b3aa-7faa-4f01-a25b-45fae3764093",
+      "DisplayName": "BaiTap",
+      "ColorIndex": 0
+    },
+    "5bea6c62-5ced-4922-bd65-02e1571057b5": {
+      "ProjectGuid": "5bea6c62-5ced-4922-bd65-02e1571057b5",
+      "DisplayName": "BT1_NhapSo",
+      "ColorIndex": 1
+    },
+    "25894eba-b272-481f-a871-e6326d3423fe": {
+      "ProjectGuid": "25894eba-b272-481f-a871-e6326d3423fe",
+      "DisplayName": "BT2_TinhTienKhamRang",
+      "ColorIndex": 2
+    },
+    "ccb38293-8de6-40a3-acc7-a263dfaf3014": {
+      "ProjectGuid": "ccb38293-8de6-40a3-acc7-a263dfaf3014",
+      "DisplayName": "BT3_Menu",
+      "ColorIndex": 3
+    },
+    "de25a844-8135-4099-a47c-6f0000cd2014": {
+      "ProjectGuid": "de25a844-8135-4099-a47c-6f0000cd2014",
+      "DisplayName": "BT4_MayTinh",
+      "ColorIndex": 4
+    },
+    "1f29d32b-9558-4d0c-ae6f-11bc089c1cdf": {
+      "ProjectGuid": "1f29d32b-9558-4d0c-ae6f-11bc089c1cdf",
+      "DisplayName": "BT5_QuanLySinhVien",
+      "ColorIndex": 5
+    },
+    "df832289-8d5a-4434-82a4-c4bb9e7e3839": {
+      "ProjectGuid": "df832289-8d5a-4434-82a4-c4bb9e7e3839",
+      "DisplayName": "BT6_PhuongTrinhBacHai",
+      "ColorIndex": 6
+    },
+    "2c0f26aa-f51f-48d7-9987-1759e8c0f5c4": {
+      "ProjectGuid": "2c0f26aa-f51f-48d7-9987-1759e8c0f5c4",
+      "DisplayName": "BT7_Chuoi",
+      "ColorIndex": 7
+    },
+    "4dc3d5f4-b783-4aee-bde4-7491e116c814": {
+      "ProjectGuid": "4dc3d5f4-b783-4aee-bde4-7491e116c814",
+      "DisplayName": "KT_HeThongBanVeXeKhach",
+      "ColorIndex": 8
+    },
+    "7e1e07b9-d1f7-48bd-bfb2-5650b008637c": {
+      "ProjectGuid": "7e1e07b9-d1f7-48bd-bfb2-5650b008637c",
+      "DisplayName": "BT8_BanPhim",
+      "ColorIndex": 9
+    },
+    "a21d0181-b362-4fe4-bba3-8ed3da5a1c1b": {
+      "ProjectGuid": "a21d0181-b362-4fe4-bba3-8ed3da5a1c1b",
+      "DisplayName": "BT9_QuanLyMuonSach",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

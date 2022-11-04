@@ -1,0 +1,11 @@
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\bin\Debug\Bai_2(sd_List_luuDuLieu).exe.config
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\bin\Debug\Bai_2(sd_List_luuDuLieu).exe
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\bin\Debug\Bai_2(sd_List_luuDuLieu).pdb
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2(sd_List_luuDuLieu).csproj.AssemblyReference.cache
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2(sd_List_luuDuLieu).csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2_sd_List_luuDuLieu_.Form1.resources
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2_sd_List_luuDuLieu_.Properties.Resources.resources
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2(sd_List_luuDuLieu).csproj.GenerateResource.cache
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2(sd_List_luuDuLieu).csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2(sd_List_luuDuLieu).exe
+D:\lap_trinh_windows\winform\Bai_2(sd_List_luuDuLieu)\Bai_2(sd_List_luuDuLieu)\obj\Debug\Bai_2(sd_List_luuDuLieu).pdb

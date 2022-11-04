@@ -1,0 +1,15 @@
+D:\lap_trinh_windows\De_on\De_12\De_12\bin\Debug\De_12.exe.config
+D:\lap_trinh_windows\De_on\De_12\De_12\bin\Debug\De_12.exe
+D:\lap_trinh_windows\De_on\De_12\De_12\bin\Debug\De_12.pdb
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.Form1.resources
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.Properties.Resources.resources
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.csproj.GenerateResource.cache
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.exe
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.pdb
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.FormXemDiem.resources
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.FormKhoa.resources
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.SinhVien.resources
+D:\lap_trinh_windows\De_on\De_12\De_12\obj\Debug\De_12.NhapDiem.resources

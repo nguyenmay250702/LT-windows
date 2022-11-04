@@ -1,0 +1,9 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\bin\Debug\BT2_TinhTienKhamRang.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\bin\Debug\BT2_TinhTienKhamRang.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\bin\Debug\BT2_TinhTienKhamRang.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\obj\Debug\BT2_TinhTienKhamRang.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\obj\Debug\BT2_TinhTienKhamRang.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\obj\Debug\BT2_TinhTienKhamRang.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\obj\Debug\BT2_TinhTienKhamRang.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\obj\Debug\BT2_TinhTienKhamRang.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT2_TinhTienKhamRang\obj\Debug\BT2_TinhTienKhamRang.pdb

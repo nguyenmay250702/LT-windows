@@ -1,0 +1,8 @@
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\bin\Debug\Tam_giac.exe.config
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\bin\Debug\Tam_giac.exe
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\bin\Debug\Tam_giac.pdb
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\obj\Debug\Bai_5.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\obj\Debug\Bai_5.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\obj\Debug\Bai_5.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\obj\Debug\Tam_giac.exe
+D:\lap_trinh_windows\BTTH03\Tam_giac\Tam_giac\obj\Debug\Tam_giac.pdb

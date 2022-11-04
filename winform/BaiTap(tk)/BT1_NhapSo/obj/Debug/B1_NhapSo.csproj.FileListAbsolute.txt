@@ -1,0 +1,10 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\bin\Debug\B1_NhapSo.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\bin\Debug\B1_NhapSo.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\bin\Debug\B1_NhapSo.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\obj\Debug\B1_NhapSo.csproj.AssemblyReference.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\obj\Debug\B1_NhapSo.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\obj\Debug\B1_NhapSo.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\obj\Debug\B1_NhapSo.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\obj\Debug\B1_NhapSo.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\obj\Debug\B1_NhapSo.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\B1_NhapSo\obj\Debug\B1_NhapSo.pdb

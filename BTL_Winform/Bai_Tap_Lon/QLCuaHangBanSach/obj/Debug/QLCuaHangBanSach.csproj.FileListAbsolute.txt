@@ -1,0 +1,12 @@
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe.config
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.exe
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\bin\Debug\QLCuaHangBanSach.pdb
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.Form1.resources
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.Form2.resources
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.Properties.Resources.resources
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.GenerateResource.cache
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.exe
+D:\lap_trinh_windows\BTL_Winform\Bai_Tap_Lon\QLCuaHangBanSach\obj\Debug\QLCuaHangBanSach.pdb

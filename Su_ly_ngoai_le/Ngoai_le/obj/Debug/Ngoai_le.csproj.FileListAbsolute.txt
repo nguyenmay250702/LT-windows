@@ -1,0 +1,11 @@
+D:\C#\OPP\BT_class\Ngoai_le\bin\Debug\Ngoai_le.exe.config
+D:\C#\OPP\BT_class\Ngoai_le\bin\Debug\Ngoai_le.exe
+D:\C#\OPP\BT_class\Ngoai_le\bin\Debug\Ngoai_le.pdb
+D:\C#\OPP\BT_class\Ngoai_le\obj\Debug\Ngoai_le.csprojAssemblyReference.cache
+D:\C#\OPP\BT_class\Ngoai_le\obj\Debug\Ngoai_le.csproj.CoreCompileInputs.cache
+D:\C#\OPP\BT_class\Ngoai_le\obj\Debug\Ngoai_le.exe
+D:\C#\OPP\BT_class\Ngoai_le\obj\Debug\Ngoai_le.pdb
+D:\lap_trinh_windows\Su_ly_ngoai_le\BTVN\obj\Debug\Ngoai_le.exe
+D:\lap_trinh_windows\Su_ly_ngoai_le\BTVN\obj\Debug\Ngoai_le.pdb
+D:\lap_trinh_windows\Su_ly_ngoai_le\Ngoai_le\obj\Debug\Ngoai_le.exe
+D:\lap_trinh_windows\Su_ly_ngoai_le\Ngoai_le\obj\Debug\Ngoai_le.pdb

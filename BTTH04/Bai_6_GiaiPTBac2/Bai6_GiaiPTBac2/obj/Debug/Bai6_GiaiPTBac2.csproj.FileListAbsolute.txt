@@ -1,0 +1,11 @@
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\bin\Debug\Bai6_GiaiPTBac2.exe.config
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\bin\Debug\Bai6_GiaiPTBac2.exe
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\bin\Debug\Bai6_GiaiPTBac2.pdb
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.Form1.resources
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.Properties.Resources.resources
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.csproj.GenerateResource.cache
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.exe
+D:\lap_trinh_windows\BTTH04\Bai_6_GiaiPTBac2\Bai6_GiaiPTBac2\obj\Debug\Bai6_GiaiPTBac2.pdb

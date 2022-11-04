@@ -1,0 +1,8 @@
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.AssemblyReference.cache
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\obj\Debug\Bai_1.csproj.CoreCompileInputs.cache
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+D:\lap_trinh_winform\BTTH01\Bai_1\Bai_1\obj\Debug\Bai_1.pdb

@@ -1,0 +1,9 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\bin\Debug\BT4_MayTinh.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\bin\Debug\BT4_MayTinh.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\bin\Debug\BT4_MayTinh.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\obj\Debug\BT4_MayTinh.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\obj\Debug\BT4_MayTinh.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\obj\Debug\BT4_MayTinh.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\obj\Debug\BT4_MayTinh.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\obj\Debug\BT4_MayTinh.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT4_MayTinh\obj\Debug\BT4_MayTinh.pdb

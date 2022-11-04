@@ -1,0 +1,9 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\bin\Debug\BT5_QuanLySinhVien.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\bin\Debug\BT5_QuanLySinhVien.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\bin\Debug\BT5_QuanLySinhVien.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\obj\Debug\BT5_QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\obj\Debug\BT5_QuanLySinhVien.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\obj\Debug\BT5_QuanLySinhVien.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\obj\Debug\BT5_QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\obj\Debug\BT5_QuanLySinhVien.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT5_QuanLySinhVien\obj\Debug\BT5_QuanLySinhVien.pdb

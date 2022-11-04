@@ -1,0 +1,11 @@
+D:\lap_trinh_windows\De_on\De_14\De_14\bin\Debug\De_14.exe.config
+D:\lap_trinh_windows\De_on\De_14\De_14\bin\Debug\De_14.exe
+D:\lap_trinh_windows\De_on\De_14\De_14\bin\Debug\De_14.pdb
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.Form1.resources
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.Properties.Resources.resources
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.csproj.GenerateResource.cache
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.exe
+D:\lap_trinh_windows\De_on\De_14\De_14\obj\Debug\De_14.pdb

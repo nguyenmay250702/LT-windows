@@ -1,0 +1,16 @@
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.AssemblyReference.cache
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.CoreCompileInputs.cache
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\bin\Debug\Bai_2.exe.config
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\bin\Debug\Bai_2.exe
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\bin\Debug\Bai_2.pdb
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.exe
+D:\lap_trinh_winform\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.pdb
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.exe
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\obj\Debug\Bai_2.pdb
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\bin\Debug\Bai_2.exe.config
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\bin\Debug\Bai_2.exe
+D:\lap_trinh_windows\BTTH02\Bai_2\Bai_2\bin\Debug\Bai_2.pdb

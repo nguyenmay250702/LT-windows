@@ -1,0 +1,11 @@
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\bin\Debug\Bai3_Snt_Scp_Shc.exe.config
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\bin\Debug\Bai3_Snt_Scp_Shc.exe
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\bin\Debug\Bai3_Snt_Scp_Shc.pdb
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.csproj.AssemblyReference.cache
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.form1.resources
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.Properties.Resources.resources
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.csproj.GenerateResource.cache
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.csproj.CoreCompileInputs.cache
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.exe
+D:\lap_trinh_windows\BTTH04\Bai3_Snt_Scp_shc\Bai3_Snt_Scp_Shc\obj\Debug\Bai3_Snt_Scp_Shc.pdb

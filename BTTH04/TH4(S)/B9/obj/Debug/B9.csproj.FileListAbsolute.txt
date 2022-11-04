@@ -1,0 +1,10 @@
+D:\C#\Thuchanh\TH4\B9\bin\Debug\B9.exe.config
+D:\C#\Thuchanh\TH4\B9\bin\Debug\B9.exe
+D:\C#\Thuchanh\TH4\B9\bin\Debug\B9.pdb
+D:\C#\Thuchanh\TH4\B9\obj\Debug\B9.Form1.resources
+D:\C#\Thuchanh\TH4\B9\obj\Debug\B9.Properties.Resources.resources
+D:\C#\Thuchanh\TH4\B9\obj\Debug\B9.csproj.GenerateResource.cache
+D:\C#\Thuchanh\TH4\B9\obj\Debug\B9.csproj.CoreCompileInputs.cache
+D:\C#\Thuchanh\TH4\B9\obj\Debug\B9.exe
+D:\C#\Thuchanh\TH4\B9\obj\Debug\B9.pdb
+D:\C#\Thuchanh\TH4\B9\obj\Debug\B9.csprojAssemblyReference.cache

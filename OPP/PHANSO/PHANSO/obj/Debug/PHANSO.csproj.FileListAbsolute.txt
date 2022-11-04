@@ -1,0 +1,16 @@
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\bin\Debug\PHANSO.exe.config
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\bin\Debug\PHANSO.exe
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\bin\Debug\PHANSO.pdb
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.AssemblyReference.cache
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.CoreCompileInputs.cache
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\obj\Debug\PHANSO.exe
+D:\lap_trinh_winform\OPP_PhanSo\PHANSO\PHANSO\obj\Debug\PHANSO.pdb
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\bin\Debug\PHANSO.exe.config
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\bin\Debug\PHANSO.exe
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\bin\Debug\PHANSO.pdb
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.AssemblyReference.cache
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.SuggestedBindingRedirects.cache
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\obj\Debug\PHANSO.csproj.CoreCompileInputs.cache
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\obj\Debug\PHANSO.exe
+D:\lap_trinh_winform\OPP\PHANSO\PHANSO\obj\Debug\PHANSO.pdb

@@ -1,0 +1,15 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\bin\Debug\BT9.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\bin\Debug\BT9.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\bin\Debug\BT9.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\bin\Debug\BT8.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\bin\Debug\BT8.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\bin\Debug\BT8.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9_QuanLyMuonSach.csproj.AssemblyReference.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9_QuanLyMuonSach.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9.Form1.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9_QuanLyMuonSach.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9_QuanLyMuonSach.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9_QuanLyMuonSach.csproj.CopyComplete
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT9_QuanLyMuonSach\obj\Debug\BT9.pdb

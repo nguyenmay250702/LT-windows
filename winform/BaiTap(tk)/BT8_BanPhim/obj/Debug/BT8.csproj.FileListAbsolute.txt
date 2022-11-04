@@ -1,0 +1,11 @@
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\bin\Debug\BT8.exe.config
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\bin\Debug\BT8.exe
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\bin\Debug\BT8.pdb
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.csproj.AssemblyReference.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.Form1.resources
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.exe
+D:\Working\TLU\LapTrinhWindows\BT_8_9\BT_8-9\BT8\obj\Debug\BT8.pdb

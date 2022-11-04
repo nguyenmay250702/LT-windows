@@ -1,0 +1,9 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\bin\Debug\KT_HeThongBanVeXeKhach.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\bin\Debug\KT_HeThongBanVeXeKhach.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\bin\Debug\KT_HeThongBanVeXeKhach.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\obj\Debug\KT_HeThongBanVeXeKhach.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\obj\Debug\KT_HeThongBanVeXeKhach.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\obj\Debug\KT_HeThongBanVeXeKhach.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\obj\Debug\KT_HeThongBanVeXeKhach.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\obj\Debug\KT_HeThongBanVeXeKhach.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\KT_HeThongBanVeXeKhach\obj\Debug\KT_HeThongBanVeXeKhach.pdb

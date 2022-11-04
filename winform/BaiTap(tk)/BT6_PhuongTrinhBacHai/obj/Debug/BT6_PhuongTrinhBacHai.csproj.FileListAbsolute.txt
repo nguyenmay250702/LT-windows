@@ -1,0 +1,9 @@
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\bin\Debug\BT6_PhuongTrinhBacHai.exe.config
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\bin\Debug\BT6_PhuongTrinhBacHai.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\bin\Debug\BT6_PhuongTrinhBacHai.pdb
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\obj\Debug\BT6_PhuongTrinhBacHai.csproj.SuggestedBindingRedirects.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\obj\Debug\BT6_PhuongTrinhBacHai.Properties.Resources.resources
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\obj\Debug\BT6_PhuongTrinhBacHai.csproj.GenerateResource.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\obj\Debug\BT6_PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\obj\Debug\BT6_PhuongTrinhBacHai.exe
+D:\Working\TLU\LapTrinhWindows\BaiTap\BT6_PhuongTrinhBacHai\obj\Debug\BT6_PhuongTrinhBacHai.pdb
